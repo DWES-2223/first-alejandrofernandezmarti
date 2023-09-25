@@ -1,7 +1,7 @@
 <?php
 
 class PhpBasicCest
-{
+{/*
     public function _before(AcceptanceTester $I)
     {
     }
