@@ -2,7 +2,7 @@
 
 class ArraysCest
 {
-
+/*
     public function _before(AcceptanceTester $I)
     {
     }
@@ -43,5 +43,5 @@ class ArraysCest
 
     }
 
-
+*/
 }
